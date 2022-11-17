@@ -30,3 +30,7 @@
  * 연구 목적: 구축된 한국어 온라인 그루밍에 관련 대화 텍스트의 대화분석&의미분석 예측에 대한 Performance Upgrade
  * 연구 결과: 한국어 온라인 그루밍 데이터셋, 온라인 그루밍 대화 분석에 특화된 PLM
  
+-----------------------------------------------------------------
+## Paper
+
+ * [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)
