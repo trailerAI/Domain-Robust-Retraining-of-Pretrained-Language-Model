@@ -39,3 +39,8 @@
 
 
  * [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks](https://aclanthology.org/2020.acl-main.740/)
+ 
+-----------------------------------------------------------------
+## Contributor
+
+ * `Tak-Sung Heo`, `Yeongjoon Park`, `Byeong-Cheol Jo`
